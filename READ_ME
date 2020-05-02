@@ -1,0 +1,11 @@
+Data for the project:
+
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+
+Analysis File Description
+The run_analysis.R can be run as long as setting your working directory to the UCI HAR Dataset folder. Dplyr package was required to run this script.
+
+you can simply copy the code and run in your Rstudio to see the final tidy dataset named MeanData.txt
+
+All varibles are explained in the code book which located in the repo in my GitHub repo page.
+
